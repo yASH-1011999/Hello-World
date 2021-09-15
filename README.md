@@ -1,2 +1,4 @@
 # Hello-World
-# Git and Github Tutorial 
+
+Hi I am Robot, 
+  I know Java,JavaScript and React.
